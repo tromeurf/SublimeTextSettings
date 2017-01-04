@@ -26,6 +26,7 @@ En plus de cela, il va falloir sauvegarder les plugins installés. Là, nous rem
     ]
 }
 ```
+
 Plutôt que de sauvegarder l’intégralité de nos plugins, nous n’allons garder que Package Control et sa configuration, ce qui présente plusieurs avantages :
 
 * un gain de place évident sur notre sauvegarde
